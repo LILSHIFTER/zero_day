@@ -1,2 +1,2 @@
-*Emphasize* _emphasize_
-**Strong** __Strong__
+_Vagrant_
+__Vagrant - or - how to code in your local computer__
